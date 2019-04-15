@@ -2,6 +2,7 @@
 Blog with Unix/Linux how-tos and articles providing introduction to Unix principles.
 
 Recent Unix Tutorial Projects:
+- <a href="https://www.unixtutorial.org/projects-nas-storage-with-helios-4">Project: NAS storage with Helios 4</a>
 - <a href="https://www.unixtutorial.org/projects-compiling-brave-browser-on-linux-mint">Project: Compiling Brave browser on Linux Mint 19</a>
 - <a href="https://www.unixtutorial.org/projects-github-pages-with-jekyll">Project: GitHub Pages with Jekyll</a>
 - <a href="https://www.unixtutorial.org/projects-centralised-rsyslog">Project: Centralised RSyslog</a>

@@ -2,6 +2,10 @@
 Blog with Unix/Linux how-tos and articles providing introduction to Unix principles.
 
 Recent Unix Tutorial Projects:
+- <a href="https://www.unixtutorial.org/projects-install-ubuntu-19-04-on-dell-xps-13-9380">Project: Install Ubuntu 19.04 on Dell XPS 13 9380</a>
+- <a href="https://www.unixtutorial.org/offlineimap-for-receiving-email">Project: Use OfflineIMAP for Receiving Email</a>
+- <a href="https://www.unixtutorial.org/projects-automatic-keyboard-backlight-for-dell-xps-in-linux">Project: Automatic keyboard backlight for Dell XPS in Ubuntu Linux</a>
+- <a href="https://www.unixtutorial.org/projects-start-tmux-instead-of-login-prompt-on-tty1">Project: Start tmux instead of login prompt on tty1 Raspberry Pi</a>
 - <a href="https://www.unixtutorial.org/projects-compiling-brave-browser-on-linux-mint">Project: Compiling Brave browser on Linux Mint 19</a>
 - <a href="https://www.unixtutorial.org/projects-github-pages-with-jekyll">Project: GitHub Pages with Jekyll</a>
 - <a href="https://www.unixtutorial.org/projects-centralised-rsyslog">Project: Centralised RSyslog</a>

@@ -1,7 +1,7 @@
-## <a href="https://www.unixtutorial.org">Unix Tutorial</a>
+## <a href="https://www.unixtutorial.org">Unix Tutorial</a> (and <a href="https://www.unixtutorial.ru">Unix Tutorial RU</a> for Russian speakers):
 Blog with Unix/Linux how-tos and articles providing introduction to Unix principles.
 
-Recent Unix Tutorial Projects:
+### Recent Unix Tutorial Projects:
 - <a href="https://www.unixtutorial.org/projects-install-ubuntu-19-04-on-dell-xps-13-9380">Project: Install Ubuntu 19.04 on Dell XPS 13 9380</a>
 - <a href="https://www.unixtutorial.org/offlineimap-for-receiving-email">Project: Use OfflineIMAP for Receiving Email</a>
 - <a href="https://www.unixtutorial.org/projects-automatic-keyboard-backlight-for-dell-xps-in-linux">Project: Automatic keyboard backlight for Dell XPS in Ubuntu Linux</a>

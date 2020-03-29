@@ -2,6 +2,9 @@
 Blog with Unix/Linux how-tos and articles providing introduction to Unix principles. There's a great <a href="https://www.unixtutorial.org/commands">Unix Commands</a> section and <a href="https://www.unixtutorial.org/projects">Unix Tutorial Projects</a>.
 
 ### Recent Unix Tutorial Projects:
+- <a href="https://www.unixtutorial.org/project-migrate-wordpress-blog-to-jekyll">Project: Migrate Wordpress blog to Jekyll 4</a>
+- <a href="https://www.unixtutorial.org/project-password-protect-a-website-with-nginx">Project: Password Protect Website with nginx</a>
+- <a href="https://www.unixtutorial.org/project-compile-exfat-fuse-in-rhel-8">Project: Compile exFAT-FUSE in RHEL 8</a>
 - <a href="https://www.unixtutorial.org/project-connect-lg-5k-display-to-pc">Project: Connecting LG 5K Monitor to PC with Alpine Ridge TB3 card</a>
 - <a href="https://www.unixtutorial.org/projects-install-ubuntu-19-04-on-dell-xps-13-9380">Project: Install Ubuntu 19.04 on Dell XPS 13 9380</a>
 - <a href="https://www.unixtutorial.org/offlineimap-for-receiving-email">Project: Use OfflineIMAP for Receiving Email</a>

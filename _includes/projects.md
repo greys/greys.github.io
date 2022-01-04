@@ -1,3 +1,5 @@
+## <a href="https://www.devopsalmanac.com">DevOps Almanac</a>
+Membership-based website where I share IT expertise and help stay up-to-date with latest technologies and developments in the DevOps space.
 ## <a href="https://www.unixtutorial.org">Unix Tutorial</a> (and <a href="https://www.unixtutorial.ru">Unix Tutorial RU</a> for Russian speakers):
 Blog with Unix/Linux how-tos and articles providing introduction to Unix principles. There's a great <a href="https://www.unixtutorial.org/commands">Unix Commands</a> section and <a href="https://www.unixtutorial.org/projects">Unix Tutorial Projects</a>.
 

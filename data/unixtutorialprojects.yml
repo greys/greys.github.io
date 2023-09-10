@@ -1,5 +1,13 @@
 name: Unix Tutorial Projects
 source:
+  - icon: fa fa-globe
+    name: "Project: Setup ed25519 key with YubiKey 5 Nano"
+    url: https://www.unixtutorial.org/project-setup-ed25519-key-with-yubikey-5-nano/
+
+  - icon: fa fa-globe
+    name: "Mini Project: Staging Environment with Netlify"
+    url: https://www.unixtutorial.org/staging-environment-with-netlify/
+
   - icon: fa fa-wordpress
     name: "Project: Migrate Wordpress blog to Jekyll 4"
     url: https://www.unixtutorial.org/project-migrate-wordpress-blog-to-jekyll

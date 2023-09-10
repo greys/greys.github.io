@@ -1,0 +1,48 @@
+name: Projects
+source:
+  - icon: fa fa-cubes
+    name: DevOps Almanac
+    description: Membership-based website where I share IT expertise and help stay up-to-date with latest technologies and developments in the DevOps space.
+    url: https://www.devopsalmanac.com
+
+  - icon: fa fa-linux
+    name: Unix Tutorial
+    description: Blog with Unix/Linux how-tos and articles providing introduction to Unix principles. There’s a great <a href="https://www.unixtutorial.org/basic-unix-commands">Unix Commands</a> section there.
+    url: https://www.unixtutorial.org
+
+  - icon: fa fa-linux
+    name: Unix Tutorial Projects
+    description: List of my recent projects around Unix/Linux  - compiling browser, migrating blogs, NAS storage setup.
+    url: /unix-tutorial-projects
+    subproject: true
+
+  - icon: fa fa-linux
+    name: UnixTutorial.RU
+    description: Избранные статьи и главного блога <a href="https://www.unixtutorial.org>"UnixTutorial.org</a>, переведённые на русский язык.
+    url: https://www.unixtutorial.ru
+    subproject: true
+
+  - icon: fa fa-globe
+    name: Solaris Blog
+    description: Various notes on Solaris 10/ Open Solaris system administration
+    url: https://solaris.reys.net
+
+  - icon: fa fa-desktop
+    name: Desktop Virtualization
+    description: VirtualBox, VMware and everything else to do with virtualizing desktops
+    url: https://www.desktop-virtualization.com
+
+  - icon: fa fa-wordpress
+    name: Perfect Blogger
+    description: WordPress with a touch of SEO
+    url: https://www.perfectblogger.com
+
+  - icon: fa fa-book
+    name: Ирландия - заметки и письма
+    description: I relocated to Ireland in 2001, this website is my letters, notes, impressions and photos of Ireland (website is in Russian)
+    url: https://ireland.reys.net
+
+  - icon: fa fa-hotel
+    name: Castle Hotels Ireland
+    description: Some of the most beautiful and luxurious castle hotels you can find to stay in Ireland
+    url: https://www.castlehotelsireland.com

@@ -1,0 +1,59 @@
+baseURL = "https://gleb.reys.net/"
+languageCode = "en-US"
+title = "Gleb Reys"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "img/profile.png"
+  author = "Chris Turner"
+  description = "Describe your website"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "greys"
+  Email         = "gleb@reys.net"
+  Twitter       = "glebreys"
+  LinkedIn      = "greys"
+  RSS           = "https://www.unixtutorial.org/atom.xml"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 50
+  identifier = "blog"
+  url = "https://www.glebreys.com/"
+[[menu.main]]
+  name = "unix tutorial"
+  weight = 75
+  identifier = "unixtutorial"
+  url = "https://www.unixtutorial.org/"
+[[menu.main]]
+  name = "tech stack"
+  weight = 100
+  identifier = "techstack"
+  url = "https://www.techstack.ie/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "photography"
+  weight = 300
+  identifier = "photography"
+  url = "https://photos.reys.net/"
+[[menu.main]]
+  name = "cv"
+  identifier = "cv"
+  weight = 400
+  url = "https://www.linkedin.com/in/greys/"

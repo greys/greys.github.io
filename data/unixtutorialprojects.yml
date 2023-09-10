@@ -1,0 +1,49 @@
+name: Unix Tutorial Projects
+source:
+  - icon: fa fa-wordpress
+    name: "Project: Migrate Wordpress blog to Jekyll 4"
+    url: https://www.unixtutorial.org/project-migrate-wordpress-blog-to-jekyll
+
+  - icon: fa fa-globe
+    name: "Project: Password Protect Website with nginx"
+    url: https://www.unixtutorial.org/project-password-protect-a-website-with-nginx
+
+  - icon: fa fa-linux
+    name: "Project: Compile exFAT-FUSE in RHEL 8"
+    url: https://www.unixtutorial.org/project-compile-exfat-fuse-in-rhel-8
+
+  - icon: fa fa-desktop
+    name: "Project: Connecting LG 5K Monitor to PC with Alpine Ridge TB3 card"
+    url: https://www.unixtutorial.org/project-connect-lg-5k-display-to-pc
+
+  - icon: fa fa-laptop
+    name: "Project: Install Ubuntu 19.04 on Dell XPS 13 9380"
+    url: https://www.unixtutorial.org/projects-install-ubuntu-19-04-on-dell-xps-13-9380
+
+  - icon: fa fa-envelope-o
+    name: "Project: Use OfflineIMAP for Receiving Email"
+    url: https://www.unixtutorial.org/offlineimap-for-receiving-email
+
+  - icon: fa fa-laptop
+    name: "Project: Automatic keyboard backlight for Dell XPS in Ubuntu Linux"
+    url: https://www.unixtutorial.org/projects-automatic-keyboard-backlight-for-dell-xps-in-linux
+
+  - icon: fa fa-book
+    name: "Project: Start tmux instead of login prompt on tty1 Raspberry Pi"
+    url: https://www.unixtutorial.org/projects-start-tmux-instead-of-login-prompt-on-tty1
+
+  - icon: fa fa-hdd-o
+    name: "Project: NAS storage with Helios 4"
+    url: https://www.unixtutorial.org/projects-nas-storage-with-helios-4
+
+  - icon: fa fa-linux
+    name: "Project: Compiling Brave browser on Linux Mint 19"
+    url: https://www.unixtutorial.org/projects-compiling-brave-browser-on-linux-mint
+
+  - icon: fa fa-github
+    name: "Project: GitHub Pages with Jekyll"
+    url: https://www.unixtutorial.org/projects-github-pages-with-jekyll
+
+  - icon: fa fa-list-alt
+    name: "Project: Centralised RSyslog"
+    url: https://www.unixtutorial.org/projects-centralised-rsyslog

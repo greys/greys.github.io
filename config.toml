@@ -2,7 +2,7 @@ baseURL = "https://gleb.reys.net/"
 languageCode = "en-US"
 title = "Gleb Reys"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "GlebReys"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-sustain"
